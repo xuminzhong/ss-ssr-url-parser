@@ -35,6 +35,7 @@ print(result)
 
 ```
 {'ip': '152.89.208.146', 'port': '2333', 'protocol': 'auth_sha1_v4', 'method': 'aes-128-ctr', 'obfs': 'plain', 'password': 'viencoding.com'}
+{'ip': 'xxx.com', 'port': '8080', 'protocol': 'origin', 'method': 'AES-128-CFB', 'obfs': 'http_post', 'password': '123456', 'obfsparam': 'xxx.qq.com', 'protoparam': 'abcd:defg==', 'remarks': 'hk', 'group': 'ssr-vpn'}
 ```
 
 ## End
